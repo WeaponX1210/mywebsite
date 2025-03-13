@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constellations and Asteroids</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <h1>Constellations and Asteroids</h1>
+            <nav>
+                <ul>
+                    <li><a href="#constellations">Constellations</a></li>
+                    <li><a href="#asteroids">Asteroids</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="constellations">
+            <h2>Constellations</h2>
+            <p>Constellations are groups of stars that form a recognizable pattern. They have been used for navigation and have many cultural significance throughout history.</p>
+            <ul>
+                <li><strong>Orion</strong>: Known as the hunter, Orion is one of the most recognizable constellations in the sky.</li>
+                <li><strong>Ursa Major</strong>: Also known as the Big Dipper, it is visible in the Northern Hemisphere.</li>
+                <li><strong>Leo</strong>: Representing a lion, Leo is a zodiac constellation visible in the spring months.</li>
+            </ul>
+        </section>
+
+        <section id="asteroids">
+            <h2>Asteroids</h2>
+            <p>Asteroids are rocky bodies that orbit the Sun, mostly found between Mars and Jupiter in the asteroid belt. Some notable asteroids include:</p>
+            <ul>
+                <li><strong>Ceres</strong>: The largest object in the asteroid belt, also classified as a dwarf planet.</li>
+                <li><strong>Vesta</strong>: One of the largest asteroids, Vesta is a source of scientific interest due to its unique surface features.</li>
+                <li><strong>Vesta</strong>: Another massive asteroid with important clues about the early solar system.</li>
+            </ul>
+        </section>
+
+        <section id="about">
+            <h2>About this Website</h2>
+            <p>This website provides basic information about constellations and asteroids, two fascinating subjects within astronomy. The goal is to share knowledge and inspire curiosity about the stars and space objects around us.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Constellations and Asteroids | Created by ChatGPT</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
